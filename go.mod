@@ -1,4 +1,4 @@
-module mcping
+module github.com/Falentio/mcping
 
 go 1.17
 
